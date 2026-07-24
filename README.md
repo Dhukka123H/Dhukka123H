@@ -17,18 +17,13 @@
 ---
 
 ### 🚀 Featured Projects
-
-**🔹 StyleMirrAR**
-Diploma final-year **capstone project** — an AR-based styling/mirror solution.
-
-**🔹 Helio**
-A **hackathon project** — built to solve a real problem under time pressure.
-
-**🔹 [donation-tracking-system](https://github.com/Dhukka123H/donation-tracking-system)**
-A decentralized donation tracking platform built on **Ethereum** with **MetaMask** integration.
-
-**🔹 [iot_smart_parking](https://github.com/Dhukka123H/iot_smart_parking)**
-An IoT-based **Smart Parking Management** system using the **ESP8266**.
+ 
+| 📌 Project | 💡 Description | 🛠️ Core Tech |
+|---|---|---|
+| **[Style_Mirror_AR](https://github.com/Dhukka123H/Style_Mirror_AR)** | Diploma final-year capstone project — an AR-based virtual styling/mirror application. | Java, AR SDK, JavaScript |
+| **Helio** | A hackathon project built to solve a real-world problem under time pressure. | JavaScript, IoT |
+| **[donation-tracking-system](https://github.com/Dhukka123H/donation-tracking-system)** | A decentralized donation tracking platform with MetaMask integration. | Ethereum, Solidity, JavaScript |
+| **[iot_smart_parking](https://github.com/Dhukka123H/iot_smart_parking)** | IoT-based smart parking management system. | ESP8266, JavaScript |
 
 ---
 
