@@ -16,14 +16,15 @@
 
 ---
 
-### 🚀 Featured Projects
- 
+## 🚀 Featured Projects
+
 | 📌 Project | 💡 Description | 🛠️ Core Tech |
 |---|---|---|
-| **[Style_Mirror_AR](https://github.com/Dhukka123H/Style_Mirror_AR)** | Diploma final-year capstone project — an AR-based virtual styling/mirror application. | Java, AR SDK, JavaScript |
+| [Style_Mirror_AR](https://github.com/Dhukka123H/Style_Mirror_AR) | Diploma final-year capstone project — an AR-based virtual styling/mirror application. | Java, AR SDK, JavaScript |
 | **Helio** | A hackathon project built to solve a real-world problem under time pressure. | JavaScript, IoT |
-| **[donation-tracking-system](https://github.com/Dhukka123H/donation-tracking-system)** | A decentralized donation tracking platform with MetaMask integration. | Ethereum, Solidity, JavaScript |
-| **[iot_smart_parking](https://github.com/Dhukka123H/iot_smart_parking)** | IoT-based smart parking management system. | ESP8266, JavaScript |
+| [donation-tracking-system](https://github.com/Dhukka123H/donation-tracking-system) | A decentralized donation tracking platform with MetaMask integration. | Ethereum, Solidity, JavaScript |
+| [iot_smart_parking](https://github.com/Dhukka123H/iot_smart_parking) | IoT-based smart parking management system. | ESP8266, JavaScript, IoT |
+| [crop-recommendation-system](https://github.com/Dhukka123H/crop-recommendation-system) | ML-based system that recommends the most suitable crop using soil nutrients (N, P, K) and environmental conditions. | Python, Flask, scikit-learn |
 
 ---
 
