@@ -159,9 +159,3 @@ Ethical Hacking
 <p align="center">
   <i>"Security is not a product, but a process."</i>
 </p>
-
-<p align="center">
-  <b>🔐 Building. Breaking. Learning. Securing. 🚀</b>
-</p>
-
-<p align="center"><i>"Security is not a product, but a process."</i></p>
