@@ -1,16 +1,15 @@
 <h1 align="center">Hi there, I'm Haris 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | CSE-IoT Student</h3>
+<h3 align="center">Offensive security | Pentesting & Red Teaming | Web3/DeFi security | Bug hunter in progress | CSE-IoT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Breaking+things+to+understand+them+better;Working+towards+CVEs+%26+bug+bounties;Aiming+for+DEF+CON+one+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Breaking+things+to+understand+them+better;Working+towards+Web3%2FDeFi+security;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 4th-year **CSE-IoT** student, based in Mumbai, Maharashtra
-- 🔐 Cybersecurity is my main focus — exploring both offensive and defensive security
-- 🎯 Long-term goals: publishing **CVEs**, presenting at **DEF CON**, and earning through **bug bounty** programs
+- 🎓 Final-year **CSE-IoT** student, based in Mumbai, Maharashtra
+- 🔐 Building a career in offensive security: pentesting, red teaming, bug bounty, and DeFi/Web3 security
 - 🧠 Continuous learner — following a structured self-study roadmap with daily practice
 - 🛡️ Practicing on TryHackMe: `Hukka.Haris`
 
@@ -54,16 +53,17 @@ Ethical Hacking
        │      ├── Reconnaissance
        │      ├── Vulnerability Assessment
        │      └── Security Testing
+       │── Red Teaming
+       │── Web3/DeFi Security 
+       ├── Web Security
+       │      ├── OWASP
+       │      ├── Burp Suite
+       │      └── Vulnerability Research
        │
-       ├── IoT Security
-       │      ├── Firmware Analysis
-       │      ├── Device Security
-       │      └── Network Monitoring
-       │
-       └── Web Security
-              ├── OWASP
-              ├── Burp Suite
-              └── Vulnerability Research
+       └── IoT Security
+              ├── Firmware Analysis
+              ├── Device Security
+              └── Network Monitoring
 ```
 
 ---
@@ -92,7 +92,7 @@ Ethical Hacking
 </p>
 
 **Security Areas:**
-`Ethical Hacking` • `Penetration Testing` • `Network Security` • `Web Security` • `IoT Security` • `Firmware Analysis` • `Vulnerability Assessment` • `Threat Analysis`
+`Ethical Hacking` • `Penetration Testing` • `Network Security` • `Web Security` • `IoT Security` • `Firmware Analysis` • `Vulnerability Assessment`
 
 ### 🌐 Platforms
 
@@ -109,7 +109,7 @@ Ethical Hacking
 ---
 
 ## 📜 Certifications & Training
-
+* 🛡️ **VAPT Internship Certificate** — Anonymous India Cyber Defence Academy (Aug–Sep 2026)
 * 🛡️ **Cisco Certified Support Technician (CCST) Cybersecurity** — Cisco / Certiport
 * ☁️ **AWS re/Start Graduate** — Amazon Web Services Training and Certification
 * 📊 **Microsoft Power BI — Real-Time Project** — KasNet Technologies Pvt. Ltd.
